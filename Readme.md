@@ -1,6 +1,6 @@
-# Debiasing Model Updates for Improving Personalized Federated Training
+# Debiasing Model Updates for Improving Personalized Federated Training (ICML 2021)
 
-This is implementation of [Debiasing Model Updates for Improving Personalized Federated Training](https://icml.cc/Conferences/2021/AcceptedPapersInitial).
+This is implementation of [Debiasing Model Updates for Improving Personalized Federated Training](http://proceedings.mlr.press/v139/acar21a/acar21a.pdf).
 
 ### Requirements
 
